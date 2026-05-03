@@ -22,18 +22,18 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/JSP-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JSP-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Servlets-grey?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JDBC-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Spring-blue?style=for-the-badge&logo=spring"/>
 <img src="https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot"/>
 <img src="https://img.shields.io/badge/Maven-red?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django"/>
+<img src="https://img.shields.io/badge/Django-red?style=for-the-badge&logo=django"/>
 <img src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git"/>
 <img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode"/>
-<img src="https://img.shields.io/badge/SSMS-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SSMS-purple?style=for-the-badge"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ## 🚧 Projects
 
-> 🚀 Currently building Java Backend & Microservices projects  
+> 🚀 Currently building Java Backend & web development 
 > Stay tuned for updates!
 
 ---
